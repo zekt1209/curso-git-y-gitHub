@@ -1,5 +1,8 @@
 Hello World
 
+Link of useful content = https://morioh.com/p/ce272cecc33b
+Solution of n queens problem = https://baffinlee.com/leetcode-javascript/problem/n-queens.html
+
 Comandos para analizar cambios en GIT
 
     git init: inicializar el repositorio
