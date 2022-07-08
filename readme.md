@@ -1,11 +1,4 @@
-Hello World
-
-Link of useful content = https://morioh.com/p/ce272cecc33b
-Solution of n queens problem = https://baffinlee.com/leetcode-javascript/problem/n-queens.html
-
-Solucion al error al hacer merge: https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error
-
-Comandos para analizar cambios en GIT
+# Comandos para analizar cambios en GIT
 
     git init: inicializar el repositorio
     git add nombre_de_archivo.extensión: agregar el archivo al repositorio
@@ -28,3 +21,17 @@ Comandos para analizar cambios en GIT
     git config --list: muestra la lista de configuración de git
     git config --list --show-origin: rutas de acceso a la configuración de git
     git log archivo.extensión: muestra la historia del archivo
+
+## Link of useful content
+https://morioh.com/p/ce272cecc33b
+Solution of n queens problem = https://baffinlee.com/leetcode-javascript/problem/n-queens.html
+
+## Solucion al error al hacer merge 
+
+git pull origin master --allow-unrelated-histories
+
+https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error
+
+
+
+
