@@ -22,6 +22,9 @@
     git config --list --show-origin: rutas de acceso a la configuración de git
     git log archivo.extensión: muestra la historia del archivo
 
+    git remote -v: Verificar que la URL se haya guardado correctamente
+    git remote set-url origin url_del_repositorio: Actualizar la URL a otro repositorio remoto
+
 ## Link of useful content
 https://morioh.com/p/ce272cecc33b
 Solution of n queens problem = https://baffinlee.com/leetcode-javascript/problem/n-queens.html
@@ -31,6 +34,7 @@ Solution of n queens problem = https://baffinlee.com/leetcode-javascript/problem
 git pull origin master --allow-unrelated-histories
 
 https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error
+
 
 
 
