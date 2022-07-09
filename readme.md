@@ -35,7 +35,7 @@ git pull origin master --allow-unrelated-histories
 
 https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error
 
-
+Cambio a SSH realizado.
 
 
 
