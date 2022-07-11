@@ -1,0 +1,122 @@
+[33mcommit 6e957c5950ab57f06995ecd87af075bb51f742cf[m[33m ([m[1;36mHEAD -> [m[1;32mhot-fix[m[33m)[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Mon Jul 11 12:19:43 2022 -0500
+
+    Se cambiaron los colores del header, footer, se arreglo el bug del
+    footer, se cambio la estructura de los parrafos en el mainContent
+
+[33mcommit 6f4490249ff5744c64dd3631bfb9f3bfda461dd7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/footer[m[33m, [m[1;32mmain[m[33m, [m[1;32mfooter[m[33m)[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Mon Jul 11 11:12:34 2022 -0500
+
+    Se cambio la tipografia del documento en general y se agrego el maravilloso footer
+
+[33mcommit 23487fa6265c1c90feb1e16dfc656e9ad025931b[m[33m ([m[1;31morigin/header[m[33m, [m[1;32mheader[m[33m)[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Mon Jul 11 10:59:55 2022 -0500
+
+    Imagenes movidas a carpeta Imagenes, creacion de index.html y styles.css
+
+[33mcommit 7cae52fa6e19a3256750fd6241e4e8d90d29a278[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Sat Jul 9 11:04:58 2022 -0500
+
+    Agregue un nuevo archivo de texto de prueba en header jijijijiji
+
+[33mcommit 9a6bc5a2e8f7b5cb0c401e256eec295389fc5713[m
+Author: Victor Guzman <victor_27edge@hotmail.com>
+Date:   Fri Jul 8 19:00:18 2022 -0500
+
+    Se establecio la llave SSH
+
+[33mcommit 598621665bd4fc120d5e0fbb76ddf26088577347[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Fri Jul 8 15:06:46 2022 -0500
+
+    Se modifico el readme.md pequeños detalles
+
+[33mcommit bbfbfaa69879b9eb60cb8b4d9b1a3e35e6eea616[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Fri Jul 8 15:01:37 2022 -0500
+
+    Se agrego imagen de TAGS y LOGS decorados
+
+[33mcommit 240c17273b66c68c01ac15b189082669ede60d20[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Fri Jul 8 14:40:19 2022 -0500
+
+    Se agrego imagen de configuracion de llaves SSH
+
+[33mcommit e2096966efa57b3c7f5276e35da0efc92b068f64[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Fri Jul 8 10:47:01 2022 -0500
+
+    Modificaciones de sintaxis en Readme.md
+
+[33mcommit 0611293e3b7edd2f1ee38dcf1ea993c347cb2f08[m
+Author: Victor Guzman <victor_27edge@hotmail.com>
+Date:   Thu Jul 7 03:03:20 2022 -0500
+
+    Agregue link con solucion al posible problema que da al hacer merge
+
+[33mcommit bda799bbce4793ed8e9d33afaa5fa9dbc31ccc4d[m
+Merge: 1d84319 7dec60a
+Author: Victor Guzman <victor_27edge@hotmail.com>
+Date:   Thu Jul 7 02:58:56 2022 -0500
+
+    Merge branch 'development'
+
+[33mcommit 7dec60af3ded61993bc26fb9df6ccfd7eec6c3ab[m[33m ([m[1;33mtag: v0.1[m[33m, [m[1;31morigin/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: Victor Guzman <victor_27edge@hotmail.com>
+Date:   Thu Jul 7 01:30:28 2022 -0500
+
+    Se agrego una infografia acerca de como crear branches y como moverse
+    entre ellas
+
+[33mcommit c9ceb64b2f7c2bf282f846646518e06434cd903f[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Wed Jul 6 14:59:31 2022 -0500
+
+    Imagen agregada de git reset vs git rm
+
+[33mcommit 2a6d6963c764e37fa3c26b2d2a49ff598a973edc[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Sat Jul 2 11:51:48 2022 -0500
+
+    Modificacion al archivo de codewars, total amount of points
+
+[33mcommit 69ae285c2e524f7888cef0efda0c27a8b188d145[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Sat Jul 2 11:42:33 2022 -0500
+
+    Se agregaron retos de codewars
+
+[33mcommit 99dabb1bbfb6c5cb6c4d65a207243bf1d891c22e[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Wed Jun 29 14:58:14 2022 -0500
+
+    Archivos agregados: Carpeta codewars y archivo english for devs
+
+[33mcommit ca2fb3a5653293ce1cfd3216d93f9f5f45f21d44[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Mon Jun 27 14:57:43 2022 -0500
+
+    Se modifico el readme con info no del curso jiji
+
+[33mcommit 9d3d88f9a3291335f438ddedb4fe326753d6e783[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Sat Jun 25 12:45:17 2022 -0500
+
+    Se agrego imagen de regresar en el tiempo - reset y checkout
+
+[33mcommit 766a4670bba870066dd1c6acf613699bb8c63345[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Soporte Sistemas 3 <soporte.sistemas3@sto.com.mx>
+Date:   Sat Jun 25 12:25:39 2022 -0500
+
+    Creacion del proyecto
+
+[33mcommit 1d84319825764d9477a8c526da13c1d0cb662784[m
+Author: Victor Guzman <76720926+zekt1209@users.noreply.github.com>
+Date:   Sat Jun 25 12:25:06 2022 -0500
+
+    Initial commit
