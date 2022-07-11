@@ -6,6 +6,7 @@ body {
 margin: 0;
 padding: 0;
 box-sizing: border-box;
+font-family: 'Rubik', sans-serif;
 }
 
 .mainContainer {
@@ -32,5 +33,11 @@ border: 1px solid black;
 
 #headerDescription {
     margin-left: 30px;
+}
+
+.footer {
+    text-align: center;
+
+    border-top: 1px solid black;
 }
 
