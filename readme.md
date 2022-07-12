@@ -38,4 +38,18 @@ https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories
 Cambio a SSH realizado.
 
 
+**content delivery network** - Es el lugar donde deberian de ir las imagenes y archivos binarios, no en el repositorio
+
+[https://imgur.com/](https://imgur.com/) - Lugar para subir imagenes gratis y referenciarlas desde ahi.
+
+## Agregar imagenes desde el drive como src
+Genial, utilice google Drive como repositorio de imagen de esta manera , cuando de di para compartir me dejo un link como este :
+https://drive.google.com/file/d/1TzRsYiyHNo-bSxrzf2ZCLJC1jaK1Qe05/view?usp=sharing
+
+bien investigue y llegue a que esta parte del link es un id 1TzRsYiyHNo-bSxrzf2ZCLJC1jaK1Qe05 y que si esta compartido en publico le puedes pedir de otra manera al drive la imagen agregándole el prefijo https://drive.google.com/uc?id=AQUI VA TU ID quedaría así
+https://drive.google.com/uc?id=1TzRsYiyHNo-bSxrzf2ZCLJC1jaK1Qe05
+y de esta forma si pues utilizarlo en el scr de tu pagina web 😃
+
+## Editor README MD
+https://pandao.github.io/editor.md/en.html
 
