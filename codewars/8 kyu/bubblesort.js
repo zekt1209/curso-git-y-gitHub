@@ -1,5 +1,5 @@
 
-let randomNumbers = [1,5,7,6,3,4,8,2,4,12,50,49,67,25,1]
+let randomNumbers = [3, 6, 8, 12, 15, 16, 25, 23, 20, 21, 33, 30, 28, 43, 41, 37, 38, 45, 46, 48, 51, 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 105, 103, 99, 119, 122, 132, 130, 126, 125, 127]
 
 const bubbleSort = (array) => {
     var aux;
@@ -13,6 +13,12 @@ const bubbleSort = (array) => {
             }
         }
     }
+    console.log(randomNumbers)
 }
 
+const countNumbers = (array) => {
+    console.log(array.length);
+};
+
 bubbleSort(randomNumbers);
+countNumbers(randomNumbers);
